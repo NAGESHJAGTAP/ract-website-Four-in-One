@@ -39,7 +39,7 @@ function Meals() {
       <div className="text-center mb-8">
         <input
           type="text"
-          placeholder="Search for meals (e.g. chicken)"
+          placeholder="Search for meals"
           value={search}
           onChange={(e) => setSearch(e.target.value)}  
           className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-2 rounded-md text-xl"
