@@ -13,7 +13,7 @@ const Home = () => {
         Explore meals, Banks, Cocktails, and Magical Harry Potter details, all in one place!
       </p>
 
-      {/* Button */}
+      
       <button className="mt-6 px-6 py-3 bg-yellow-500 text-black font-semibold rounded-full hover:bg-yellow-600 transition duration-300">
         Explore Now
       </button>
