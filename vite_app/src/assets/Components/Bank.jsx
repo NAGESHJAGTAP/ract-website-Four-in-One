@@ -83,7 +83,6 @@ const Bank = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center py-8 px-4">
       <h1 className="text-3xl font-bold text-blue-600 mb-6">Bank Branch Finder</h1>
-
       
       <div className="bg-white shadow-md rounded-lg p-6 w-full max-w-2xl mb-8">
         <label className="block text-gray-700 font-medium mb-2">Enter IFSC Code:</label>
@@ -146,3 +145,7 @@ const Bank = () => {
 };
 
 export default Bank;
+
+
+
+

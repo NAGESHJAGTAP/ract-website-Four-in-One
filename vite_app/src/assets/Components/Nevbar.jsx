@@ -22,6 +22,9 @@ export const Nevbar = () => {
         <li className="hover:text-black">
           <Link to="/potter">Potter</Link>
         </li>
+        <li className='hover:text-black'>
+        <Link to="/Student">student</Link>
+        </li>
       </ul>
     </nav>
    
