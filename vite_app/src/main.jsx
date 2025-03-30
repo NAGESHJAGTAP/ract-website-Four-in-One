@@ -10,7 +10,7 @@ import Meals from './assets/Components/Meals.jsx';
 import Cocktail from './assets/Components/Cocktail.jsx';
 import Potter from './assets/Components/Potter.jsx';
 import Bank from './assets/Components/Bank.jsx';
-import Student from './assets/Components/student.jsx';
+import Student from './assets/Components/Student.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
